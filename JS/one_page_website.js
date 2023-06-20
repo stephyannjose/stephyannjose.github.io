@@ -21,22 +21,22 @@
 
     <div class="mySlides">
       <div class="numbertext">1 / 4</div>
-      <img src="img1_wide.jpg" style="width:100%">
+      <img src="https://static.vecteezy.com/system/resources/thumbnails/008/916/488/small/cartoon-happy-family-on-white-background-vector.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">2 / 4</div>
-      <img src="img2_wide.jpg" style="width:100%">
+      <img src="https://img.freepik.com/free-vector/couple-children-cartoon-character_1308-69300.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">3 / 4</div>
-      <img src="img3_wide.jpg" style="width:100%">
+      <img src="https://www.shutterstock.com/image-vector/family-together-group-people-standing-260nw-590327120.jpg" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">4 / 4</div>
-      <img src="img4_wide.jpg" style="width:100%">
+      <img src="https://www.shutterstock.com/image-vector/happy-family-father-mother-son-600w-420500284.jpg" style="width:100%">
     </div>
 
     <!-- Next/previous controls -->
@@ -50,19 +50,19 @@
 
     <!-- Thumbnail image controls -->
     <div class="column">
-      <img class="demo" src="img1.jpg" onclick="currentSlide(1)" alt="Nature">
+      <img class="demo" src="https://static.vecteezy.com/system/resources/thumbnails/008/916/488/small/cartoon-happy-family-on-white-background-vector.jpg" onclick="currentSlide(1)" alt="Nature">
     </div>
 
     <div class="column">
-      <img class="demo" src="img2.jpg" onclick="currentSlide(2)" alt="Snow">
+      <img class="demo" src="https://img.freepik.com/free-vector/couple-children-cartoon-character_1308-69300.jpg" onclick="currentSlide(2)" alt="Snow">
     </div>
 
     <div class="column">
-      <img class="demo" src="img3.jpg" onclick="currentSlide(3)" alt="Mountains">
+      <img class="demo" src="https://www.shutterstock.com/image-vector/family-together-group-people-standing-260nw-590327120.jpg" onclick="currentSlide(3)" alt="Mountains">
     </div>
 
     <div class="column">
-      <img class="demo" src="img4.jpg" onclick="currentSlide(4)" alt="Lights">
+      <img class="demo" src="https://www.shutterstock.com/image-vector/happy-family-father-mother-son-600w-420500284.jpg" onclick="currentSlide(4)" alt="Lights">
     </div>
   </div>
 </div>
